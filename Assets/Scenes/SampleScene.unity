@@ -225,7 +225,7 @@ PrefabInstance:
     - target: {fileID: -1649218382573798814, guid: 320b1c2af77554f99a1658df4a6d3d5c, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 58afd1e3b998995408a471da75be8a27, type: 2}
+      objectReference: {fileID: 2100000, guid: 9cb32128092808c4bb7b021843b8b20e, type: 2}
     - target: {fileID: -927199367670048503, guid: 320b1c2af77554f99a1658df4a6d3d5c, type: 3}
       propertyPath: m_Name
       value: Robot Kyle
