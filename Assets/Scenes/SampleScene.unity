@@ -3556,6 +3556,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5006512736339112052}
   - component: {fileID: 3506690171190758895}
+  - component: {fileID: 8296172668200206952}
   m_Layer: 0
   m_Name: Robot Kyle (1)
   m_TagString: Untagged
@@ -3563,6 +3564,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &8296172668200206952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8296172668200206951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b12773e5b0a9645bec58580b5f1181, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mr: {fileID: 7574153652991648012}
 --- !u!1 &8296172668440843700
 GameObject:
   m_ObjectHideFlags: 0
